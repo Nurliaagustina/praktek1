@@ -9,5 +9,8 @@ package praktek1;
  * @author ASUS
  */
 public class mahasiswaAksi {
-    
+    public static void main(String[] args) {
+      mahasiswa harry = new mahasiswa (); 
+    }
+   
 }
