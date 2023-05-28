@@ -10,7 +10,12 @@ package praktek1;
  */
 public class mahasiswaAksi {
     public static void main(String[] args) {
-      mahasiswa harry = new mahasiswa (); 
+      mahasiswa harry = new mahasiswa ();
+      
+      harry.nama="harry potter";
+      harry.NPM="19639999";
+      harry.IPK="3,4";
+              
     }
    
 }
